@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ananda Surya</h1>
-<h3 align="center">A data and cloud enthusiast who is currently entering his third year as an Information Systems student</h3>
+<h3 align="center">A data analyst enthusiast who is currently entering his fourth year as an Information Systems student on Sepuluh Nopember Insitute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandasuryaa13&label=Profile%20views&color=0e75b6&style=flat" alt="anandasuryaa13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandasuryaa13" alt="anandasuryaa13" /></a> </p>
 
-- 🔭 I’m currently working on [Bangkit Cloud Learning Cohort](https://github.com/Veronicamrcl/Haivest)
+- 🔭 I have worked on [Bangkit Cloud Learning Cohort](https://github.com/Veronicamrcl/Haivest)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **anandasuryadd@gmail.com**
 
