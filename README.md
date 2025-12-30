@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananda Surya</h1>
-<h3 align="center">A data analyst enthusiast who is currently entering his fourth year as an Information Systems student on Sepuluh Nopember Insitute of Technology</h3>
+<h3 align="center">A data analyst enthusiast who currently deepening my expertise in research, with an academic background in Information Systems from Institut Teknologi Sepuluh Nopember.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandasuryaa13&label=Profile%20views&color=0e75b6&style=flat" alt="anandasuryaa13" /> </p>
 
